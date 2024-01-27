@@ -2,6 +2,8 @@
 
 The Waterfall Model is a widely adopted approach in software engineering, providing a systematic and linear process for software development. This README.md file aims to delve into the details of the Waterfall Model, exploring its key features, different phases, applications, and tools associated with its implementation.
 
+![Software Engineering Waterfall Model](https://static.javatpoint.com/tutorial/software-engineering/images/software-engineering-waterfall-model.jpg)
+
 ## Table Of Contents
 
 1. [What is The Waterfall Model?](#what-is-the-waterfall-model)
